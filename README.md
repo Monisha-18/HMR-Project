@@ -1,1 +1,1 @@
-# This project explores the application of machine learning algorithms to predict in-hospital mortality rates for patients. It utilizes various ML models and hyperparameter optimization techniques to achieve the most accurate and generalizable predictions.
+<p>This project explores the application of machine learning algorithms to predict in-hospital mortality rates for patients. It utilizes various ML models and hyperparameter optimization techniques to achieve the most accurate and generalizable predictions.</p> 
